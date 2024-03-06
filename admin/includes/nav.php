@@ -18,7 +18,7 @@
                 <nav class="sb-sidenav accordion sb-sidenav-dark" id="sidenavAccordion">
                     <div class="sb-sidenav-menu">
                         <div class="nav">
-                            <div class="sb-sidenav-menu-heading">Menu Bar</div>
+                            <div class="sb-sidenav-menu-heading">Menu Bars</div>
                             <a class="nav-link" href="system_info.php">
                                 <div class="sb-nav-link-icon"><i class="fa-solid fa-house"></i></div>
                                 NAVIGATION MENU
@@ -40,7 +40,7 @@
                             </div>
                             <a class="nav-link collapsed" href="about_me.php" data-bs-toggle="collapse" data-bs-target="#collapsePages" aria-expanded="false" aria-controls="collapsePages">
                                 <div class="sb-nav-link-icon"><i class="fas fa-book-open"></i></div>
-                                About Me    
+                                About Me Section   
                                 <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
                             </a>
                             <a class="nav-link collapsed" href="projects.php" data-bs-toggle="collapse" data-bs-target="#collapsePages" aria-expanded="false" aria-controls="collapsePages">
