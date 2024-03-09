@@ -36,7 +36,7 @@
                                 echo "<tr>";
                                 echo "<td>{$row['abt_title']}</td>";
                                 echo "<td>{$row['abt_description']}</td>";
-                                echo "<td><a href='edit_socialmedia.php?id={$row['id']}' class='btn btn-primary'>Edit</a></td>"; // Added the edit button
+                                echo "<td><a href='edit_aboutme.php?id={$row['id']}' class='btn btn-primary'>Edit</a></td>"; // Added the edit button
                                 echo "</tr>";
                             }
                             ?>

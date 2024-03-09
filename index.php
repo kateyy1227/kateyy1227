@@ -2,6 +2,7 @@
 <?php require_once "includes/header.php"; ?>
 <?php require_once "includes/nav.php"; ?>
 <?php require_once "includes/intro.php"; ?>
+<?php require_once "includes/aboutme.php"; ?>
 <?php require_once "includes/db.php"; ?>
 
 <link rel="stylesheet" href="styles.css">

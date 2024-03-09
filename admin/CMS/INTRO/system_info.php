@@ -1,7 +1,9 @@
-<?php require_once "includes/header.php"?>
-<?php require_once "includes/nav.php"?>
-<?php require_once "index.php"?>
-<?php require_once "../includes/db.php"?>// Adjust the path as needed
+<?php require_once "../../includes/header.php"; ?>
+<?php require_once "../../includes/nav.php"; ?>
+<?php require_once __DIR__ . '/../../index.php'; ?>
+
+
+<?php require_once "../../../includes/db.php"; // Adjust the path as needed ?>
 
 
 </nav>
@@ -15,6 +17,7 @@
             </ol>
             <div class="row">
                 <?php
+                // Assuming $con is defined in the db.php file
                 if (!$con) {
                     echo "Failed to connect to the database";
                 } else {
